@@ -34,7 +34,7 @@
       				<p>{{page.excerpt}}</p>
               <span class="date">{{page.date | date: '%B %d, %Y' }}</span>
       			</header>
-      			<div class="image main"><img src="{{page.image}}" alt=""></div>
+      			<div class="image main"><img src="{{page.image | absolute_url }}" alt=""></div>
       			<p>{{content}}</p>
       		</section>
 
