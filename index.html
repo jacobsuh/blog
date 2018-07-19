@@ -1,0 +1,100 @@
+---
+layout: null
+title: Blog Page
+description: Blog Page
+---
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+    {% include head.html %}
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+						<ul class="icons">
+							<li><a href="https://linkedin.com/in/{{site.github}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
+              				<li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+              				<li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+              				<li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+          <!-- <article class="post featured">
+            <header class="major">
+              <h2><a href="#">Importance of Blogs</a></h2>
+              <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
+                dynamic content to your users. Also, they help your site get indexed and build authority as they are essential for SEO!
+							</p>
+            </header>
+						<p>
+							Check out my posts!
+						</p>
+
+          </article> -->
+					<!-- Post -->
+					<section class="posts">
+						{% for post in paginator.posts %}
+							<article>
+								<header>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+								</header>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<p>{{ post.excerpt }}</p>
+								<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Full Post</a></li>
+								</ul>
+							</article>
+						{% endfor %}
+
+					</section>
+
+					<footer>
+						<div class="pagination" align="center">
+							{% if paginator.previous_page %}
+							<a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
+							{% else %}
+							  <span class="previous">Prev</span>
+							{% endif %}
+							<span class="page_number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+							{% if paginator.next_page %}
+							  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+							{% else %}
+							  <span class="next ">Next</span>
+							{% endif %}
+						</div>
+					</footer>
+
+					</div>
+
+				<!-- Footer -->
+
+
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>
