@@ -3409,7 +3409,8 @@
 
 				#header .logo {
 					font-size: 1.75rem;
-					border-width: 3px !important;
+					border-top-width: 1px !important;
+					border-bottom-width: 1px !important;
 				}
 
 		}
