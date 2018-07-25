@@ -38,11 +38,11 @@ A dedicated graphics card is necessary for real-time computer vision classificat
 1. Create an NVIDIA Developer Account
 2. Create an Apple Developer Account
 
-Both are free and the approval process was instaneous for me, but it could take some time. The Nvidia Developer Account is needed to download the CUDA Deep Neural Network library (cuDNN). The Apple Developer Account is needed to download a previous version of XCode that is compatible with the current version of cuDNN and CUDA driver version.
+Both are free and the approval process was instaneous for me, but it could take some time. The Nvidia Developer Account is needed to download the CUDA Deep Neural Network library (cuDNN). The Apple Developer Account is needed to download a previous version of XCode that is compatible with the current version of cuDNN and CUDA driver versions.
 
 ## Installation Process
 ### 1. Install homebrew, homebrew cask, and python3
-These instructions come from Metakermit's post. If you already python3, disregard that command.
+These instructions come from Metakermit's post. If you already have Python 3 installed, disregard that command.
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew update

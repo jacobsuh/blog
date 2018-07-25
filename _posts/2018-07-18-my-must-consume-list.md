@@ -21,7 +21,7 @@ I've decided to compile a “must-consume" living list of all my favorite pieces
 	<dd>Similar to the piece above by Steward, this short opinion piece covers the harmful nature of denying one's priviledge and playing the game required to maintain one's priviledge at the cost of those under them. Examples include gated communities causing a physical divide between socioeconomic classes that also manifests itself in school district provisioning.</dd>
 
 	<dt>[Watch] <a href="https://www.youtube.com/watch?v=PHe0bXAIuk0">"How The Economic Machine Works by Ray Dalio" by Ray Dalio</a></dt>
-	<dd>First off, I know. I just wanted to remain consistent with the titles. This is basic introduction into how economic cycles works from the founder of one of the largest hedge funds in the world, Bridgewater Associates. The video is pretty long (~30 mins) but it gives you a fairly solid foundation.</dd>
+	<dd>First off, I know. I just wanted to remain consistent with the titles. This is a basic introduction into how economic cycles works from the founder of one of the largest hedge funds in the world, Bridgewater Associates. The video is pretty long (~30 mins) but it gives you a fairly solid foundation.</dd>
 
 </dl>
 
@@ -29,7 +29,7 @@ I've decided to compile a “must-consume" living list of all my favorite pieces
 <dl>
 
 	<dt>[Read] <a href="https://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man">"The Mind of Marc Andreessen" by Tad Friend for The New Yorker</a></dt>
-	<dd>This piece on Marc Andreessen, one of the most successful VCs in the world, is one the most thorough and interesting profiles I've read in a while. I'm fairly sure the title of the article changed at one point to what it is now, so I'll just keep the original title here.</dd>
+	<dd>This piece on Marc Andreessen, one of the most successful VCs in the world, is one of the most thorough and interesting profiles I've read in a while. I'm fairly sure the title of the article changed at one point to what it is now, so I'll just keep the original title here.</dd>
 
 	<dt>[Read] <a href="https://medium.com/@merci/wtf-is-product-market-fit-8fd9df41c573">"WTF is Product/Market Fit?" by Merci Victoria Grace</a></dt>
 	<dd>A quick article on how to evaluate product/market fit. This article is mainly for growth hackers/PMs, but I found it valuable for venture investing too.</dd>
@@ -43,7 +43,7 @@ I've decided to compile a “must-consume" living list of all my favorite pieces
 	<dd>Did you know Netflix changes its title cards for shows/movies based on what other shows or movies you like to watch?? Quick excerpt to reel you in: "...let’s imagine how the different preferences for cast members might influence the personalization of the artwork for the movie Pulp Fiction. A member who watches many movies featuring Uma Thurman would likely respond positively to the artwork for Pulp Fiction that contains Uma. Meanwhile, a fan of John Travolta may be more interested in watching Pulp Fiction if the artwork features John." This is a more technical read, but the first section of this article is amazing even for non-technical people.</dd>
 	
 	<dt>[Read] <a href="https://www.bloomberg.com/features/2018-palantir-peter-thiel/">"Palantir Knows Everything About You" by Peter Waldman, Lizette Chapman, and Jordan Robertson for Bloomberg</a></dt>
-	<dd>Shrouded in secrecy, Palantir is one of my favorite companies to talk about because so few people outside of the tech/venture industry know about it. With my [major] concerns of using data to provide actionable insights for law enforcement agencies aside, what Palantir was able to accomplish is nothing short of amazing. Plus, Peter Thiel is a <b>strange</b> enigma that makes reading this article all the more worth it. C'mon, he hated how liberal Silicon Valley was so he moved and brought his VC operations down to the conservative stronghold of... Los Angeles???</dd>
+	<dd>Shrouded in secrecy, Palantir is one of my favorite companies to talk about because so few people outside of the tech/venture industry know about it. With my [major] concerns of using data to provide actionable insights for law enforcement agencies aside, what Palantir was able to accomplish is nothing short of amazing. Plus, Peter Thiel is an enigma that makes reading this article all the more worth it. C'mon, he hated how liberal Silicon Valley was so he moved and brought his VC operations down to the conservative stronghold of... Los Angeles???</dd>
 	
 	<dt>[Listen] <a href="https://www.recode.net/2017/6/12/15779318/amazon-scott-galloway-jeff-bezos-retail-stores-automation-cashiers-jobs-kara-swisher-recode-decode">"Google is God, Facebook is love and Amazon will be worth $1 trillion" hosted by Kara Swisher for Recode Decode</a></dt>
 	<dd>Scott Galloway is my role model when it comes to his ability to spit out statistics about consumer behavior and company metrics. I want to get to his level one day, both in sheer knowledge and in speaking speed. Kicker: He correctly predicted on this episode that Amazon was going to acquire Whole Foods months before the news was actually announced. If you have any interest in tech, this will be an incredibly entertaining hour — seriously, he talks a mile a minute.</dd>
