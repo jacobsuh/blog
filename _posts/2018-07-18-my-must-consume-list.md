@@ -3,7 +3,6 @@ layout: post
 title:  "My Must-Consume List"
 date:   2018-07-18
 excerpt: "Here's my collection of articles, podcasts, videos, etc. that are important to me."
-image: "/images/media.png"
 ---
 
 I've decided to compile a “must-consume" living list of all my favorite pieces of media, whether it be articles, videos, or podcasts. Every single one of the items on this list changed the way I look at a topic, challenged my beliefs, or taught me something new and (I would like to think) had some role in shaping who I am currently. Obviously all of these pertain to my interests (and I really want to make another list of my favorite trash, but funny, pieces of media one day), but hopefully you too can gain something from this list. I've split them up roughly into topics and I'll definitely be adding to this list as time goes on. 
