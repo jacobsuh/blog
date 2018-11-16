@@ -3435,7 +3435,7 @@
 		padding: 0 2rem 0 0;
 		position: relative;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 60rem;
 		z-index: 2;
 	}
 
@@ -3572,7 +3572,7 @@
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 60rem;
 		z-index: 2;
 	}
 
@@ -3771,7 +3771,7 @@
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 60rem;
 		z-index: 2;
 	}
 
@@ -4203,7 +4203,7 @@
 		text-transform: uppercase;
 		margin: 4rem auto 8rem auto;
 		width: calc(100% - 4rem);
-		max-width: 72rem;
+		max-width: 60rem;
 		z-index: 2;
 	}
 
