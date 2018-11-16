@@ -2,7 +2,7 @@
 layout: post
 title:  "Hippies and NPR"
 date:   2018-09-15
-excerpt: "After Applebees, millennials are killing yet another thing."
+excerpt: "After Applebees, millennials are killing yet another thing: your beloved public radio."
 ---
 
 Fun fact: The AM in "AM/FM radio" radio stands for "amplitude modulation" and FM stands for "frequency modulation". What this means is that the information is actually encoded within the radio waves differently for each. AM relies on the height of the waves (i.e. amplitude) and FM relies on the width of the waves (i.e. frequency).
