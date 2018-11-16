@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   jacobysuh
+# disqus_shortname:   jacobysuh
 
 # Social
 analytics-id:       "default"
