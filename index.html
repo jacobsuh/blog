@@ -54,8 +54,8 @@ description: Blog Page
 						{% for post in paginator.posts %}
 							<article>
 								<header>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 									<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
 								<!-- <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a> -->
 								<p>{{ post.excerpt }}</p>
@@ -70,13 +70,13 @@ description: Blog Page
 					<footer>
 						<div class="pagination" align="center">
 							{% if paginator.previous_page %}
-							<a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
+							<a href="{{ paginator.previous_page_path | absolute_url }}" class="previous">Prev</a>
 							{% else %}
 							  <span class="previous">Prev</span>
 							{% endif %}
 							<span class="page_number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
 							{% if paginator.next_page %}
-							  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+							  <a href="{{ paginator.next_page_path | absolute_url }}" class="next">Next</a>
 							{% else %}
 							  <span class="next ">Next</span>
 							{% endif %}
