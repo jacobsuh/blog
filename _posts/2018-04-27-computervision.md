@@ -98,7 +98,7 @@ brew install ffmpeg numpy
 ```
 And then switch back to the old version of CLT again before proceeding.
 
-### Compile YOLO
+### 6. Compile YOLO
 Using Terminal, make sure to go to the directory that you wish to put your project, since we're going to be cloning this Github respository.
 ```
 cd /Projects
@@ -120,7 +120,7 @@ wget https://pjreddie.com/media/files/yolo.weights
 In order to run YOLO, I added a bash file to make things easier. While still in the same directory, start with:
 ```
 bash start.sh
-``` 
+```
 It will ask you for an address for a video file, which will run the object-detection on it and then export a video file with bounding boxes and labels in the same directory. If a video is not supplied, the program will run off your webcam and have real-time object-detection.
 
 ## Results
