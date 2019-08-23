@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Must-Consume List"
+title:  "My Must Read/Watch/Listen List"
 date:   2018-07-18
 excerpt: "Here's my collection of articles, podcasts, videos, etc. that are important to me."
 ---
