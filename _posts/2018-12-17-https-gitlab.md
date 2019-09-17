@@ -2,8 +2,10 @@
 layout: post
 title:  "HTTPS on Gitlab Pages using Let's Encrypt / Certbot"
 date:   2018-12-17
-excerpt: "These instructions are for Mac OS, uses Let's Encrypt's certbot, and does not require a challenge file, which makes things much easier."
+excerpt: "[DEPRECIATED] These instructions are for Mac OS, uses Let's Encrypt's certbot, and does not require a challenge file, which makes things much easier."
 ---
+
+UPDATE 09/17/19: Turns out Gitlab recently added native HTTPS support for Pages! This means that my guide below is now entirely useless, but I'll keep this as an archive.
 
 I decided to move a personal project's webpage over from Github to Gitlab recently, mainly because Gitlab offers private repositories for free. However, unlike Github, HTTPS encryption for custom domain names on Gitlab requires manual setup. I couldn't find any comprehensive guides, so here's the easiest method I've found so far that utilizes DNS verification with a TXT entry. These instructions are for Mac OS, uses Let's Encrypt's certbot, and does not require a challenge file, which makes things much easier.
 
