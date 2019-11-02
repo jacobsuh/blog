@@ -1723,13 +1723,13 @@
 		}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 2rem;
 		line-height: 1.1;
 		margin: 0 0 2rem 0;
 	}
 
 	h2 {
-		font-size: 1.75rem;
+		font-size: 1.5rem;
 		line-height: 1.3;
 		margin: 0 0 1.5rem 0;
 	}
@@ -3032,7 +3032,7 @@
 			width: 100%;
 			height: 100%;
 			background-color: #212931;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.3), rgba(19, 21, 25, 0.3)), url("../../images/bg.jpg");
+			/* background-image: linear-gradient(to top, rgba(19, 21, 25, 0.3), rgba(19, 21, 25, 0.3)), url("../../images/bg.jpg"); */
 			background-size: cover;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -3599,7 +3599,7 @@
 			}
 
 			#main > .post header.major > h1, #main > .post header.major h2 {
-				font-size: 4rem;
+				font-size: 2rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
 			}
