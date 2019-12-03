@@ -2,7 +2,7 @@
 layout: post
 title:  "HTTPS on Gitlab Pages using Let's Encrypt / Certbot"
 date:   2018-12-17
-excerpt: "[DEPRECIATED] These instructions are for Mac OS, uses Let's Encrypt's certbot, and does not require a challenge file, which makes things much easier."
+excerpt: "[DEPRECIATED as of 09/17/19] These instructions are for Mac OS, uses Let's Encrypt's certbot, and does not require a challenge file, which makes things much easier."
 ---
 
 UPDATE 09/17/19: Turns out Gitlab recently added native HTTPS support for Pages! This means that my guide below is now entirely useless, but I'll keep this as an archive.
