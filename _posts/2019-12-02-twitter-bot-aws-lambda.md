@@ -81,7 +81,7 @@ The Handler field is the file and function (```fileName.functionName```) that ge
 
 Above the ```return```, call your actual function to run. My Function looks as follows, with the example's ```lambda_handler``` function renamed to ```main```:
 
-![Handler](/images/twitter1.png)
+![Handler]({{site.url}}/images/twitter1.png)
 
 
 ### 3. Create Layer
@@ -121,7 +121,7 @@ Cron can also be used to trigger the Lambda function at specific times throughou
 
 After creating a function, adding a layer, and a trigger (I actually have two for testing purposes), my Designer panel looks like this:
 
-![Designer](/images/twitter2.png)
+![Designer]({{site.url}}/images/twitter2.png)
 
 ### 5.  Done!
 
