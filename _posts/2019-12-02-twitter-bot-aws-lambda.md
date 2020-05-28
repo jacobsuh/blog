@@ -4,7 +4,7 @@ title: "Twitter Bot with Python and AWS Lambda"
 date:   2019-12-02
 excerpt: "Guide for building a Twitter bot with Python that automatically tweets out at certain intervals using AWS Lambda for free"
 ---
-One of my old roommates in undergrad, Steven, and I used to watch Community quite a lot. It's one of his favorite TV shows and I've come to love it too. I recently came across a Twitter account that tweets out a screenshot from King of the Hill every 30 minutes and I wanted to do something similar for Community. Our finished project can now be found on [@Community_Caps](https://twitter.com/Community_Caps).Thanks to [Steven](https://stevenstetzler.com/) for helping and making it possible! 
+One of my old roommates in undergrad, Steven, and I used to watch Community quite a lot. It's one of his favorite TV shows and I've come to love it too. I recently came across a Twitter account that tweets out a screenshot from King of the Hill every 30 minutes and I wanted to do something similar for Community. Our finished project can now be found on [@Community_Caps](https://twitter.com/Community_Caps). Thanks to [Steven](https://stevenstetzler.com/) for helping and making it possible! 
 
 Here's a quick guide on how create a bot for free using Python and AWS Lambda.
 
@@ -105,7 +105,7 @@ A test can be run using the Test button at the top to see if everything works. I
 
 ### 4. Add a CloudWatch trigger
 
-In order for the program to run automatically at certain intervals,, a trigger needs to be added. Simply create a new CloudWatch Events trigger with the following example rate expressions::
+In order for the program to run automatically at certain intervals, a trigger needs to be added. Simply create a new CloudWatch Events trigger with the following example rate expressions:
 
 ```python
 # Every hour
